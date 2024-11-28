@@ -1,5 +1,5 @@
 - 👋 Hi, I’m mukesh kumar kushwaha
-- 👀 I’m interested in softwere developer
+- 👀 I’m interested in Data analyst
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
